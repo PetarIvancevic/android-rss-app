@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <color name="upit_blue">#31A3D0</color>
+    <color name="white">#ffffff</color>
+    <style name="CustomAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/upit_blue</item>
+        <item name="android:title">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="customTextView">
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="android:background">@color/upit_blue</item>
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android workspace\rssFeedApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-aa16b3cf885393ef74ba8407c65bcf20627dd05b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Petar\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.10\8d62b91f5ccb6f7f872313191c016c03bb61a792\library-1.0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d62b91f5ccb6f7f872313191c016c03bb61a792">
+        <dex dex="D:\Android workspace\rssFeedApp\app\build\intermediates\pre-dexed\debug\library-1.0.10-16a7619078b7f06720e5a7c0340d467110ef4f73.jar" />
+    </item>
+    <item
+        jar="D:\Android workspace\rssFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android workspace\rssFeedApp\app\build\intermediates\pre-dexed\debug\classes-9068c8a60a4f21203742d22bb843009f7b4004af.jar" />
+    </item>
+    <item
+        jar="D:\Android workspace\rssFeedApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android workspace\rssFeedApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-323bfc7b22c584326b0dc81bcff90b3c99816ece.jar" />
+    </item>
+    <item
+        jar="D:\Android workspace\rssFeedApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Android workspace\rssFeedApp\app\build\intermediates\pre-dexed\debug\classes-70aa3dc207bdea1b538036ccd1a5e343d09bae47.jar" />
+    </item>
+
+</items>
